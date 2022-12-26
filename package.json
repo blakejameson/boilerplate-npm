@@ -12,6 +12,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 
-	"author":"Blake"
+	"author":"Blake",
+	"description": "A project where I learn about npm"
 
 }
